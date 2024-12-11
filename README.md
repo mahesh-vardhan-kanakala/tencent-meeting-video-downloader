@@ -92,12 +92,9 @@ npm run build
 
 # 📞 Contact
 
-**Chan Meng**
+**Mahesh Vardhan-Kanakala**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vardhan-kanakala/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=normal&logo=github&logoColor=white)](https://github.com/mahesh-vardhan-kanakala)
 
 For issues and suggestions, please submit an Issue.
-```
-
-This version contains everything in English, including the feature descriptions and installation instructions.
