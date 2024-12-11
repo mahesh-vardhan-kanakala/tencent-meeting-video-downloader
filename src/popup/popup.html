@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Tencent Meeting Recording Downloader</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Tencent Meeting Recording Downloader</h2>
+    <div id="status" class="status">Waiting for video detection...</div>
+    <div id="videoList" class="video-list"></div>
+    <div class="input-group">
+      <label for="savePath">Save Path:</label>
+      <input type="text" id="savePath" placeholder="For example: D:/meeting_video.mp4" />
+    </div>
+    <button id="generateBtn" class="generate-btn" disabled>Generate Download Command</button>
+    <div id="commandBox" class="command-box" style="display: none;">
+      <div class="tips">
+        <p>Instructions:</p>
+        <ol>
+          <li>Enter the video save path (including the `video_filename.mp4` part)</li>
+          <li>Click "Generate Download Command"</li>
+          <li>Copy the generated command</li>
+          <li>Open Git Bash</li>
+          <li>Right-click to paste the command and press Enter to execute</li>
+        </ol>
+      </div>
+      <div class="command-header">
+        <span>Download Command (please copy and run it in Git Bash):</span>
+        <button id="copyBtn" class="copy-btn">Copy Command</button>
+      </div>
+      <pre id="curlCommand" class="curl-command"></pre>
+    </div>
+  </div>
+</body>
+</html>
