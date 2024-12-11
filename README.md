@@ -9,25 +9,7 @@ A Chrome browser extension that helps you easily download Tencent Meeting record
 - 🔒 **Privacy First** - No data collection, completely secure and private
 
 # 📥 Installation
-
-### Method 1: Direct Installation (Recommended)
-
-1. Download the latest release
-   - Visit [Releases](https://github.com/mahesh-vardhan-kanakala/tencent-meeting-video-downloader/releases)
-   - Download `tencent-meeting-video-downloader.zip`
-
-2. Prepare Chrome Browser
-   - Open Chrome
-   - Enter `chrome://extensions/` in the address bar
-   - Enable "Developer mode" in the top-right corner
-
-3. Install Extension
-   - Unzip the downloaded file
-   - Click "Load unpacked"
-   - Select the unzipped folder
-   - Extension icon appears in the toolbar
-
-### Method 2: Build from Source
+### Method : Build from Source
 
 ```bash
 # Clone repository 
