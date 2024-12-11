@@ -1,17 +1,3 @@
-Here’s the content with everything translated into English:
-
-```html
-<div align="center">
-  <h1> 
-    <img src="/icons/icon128.png" width="80px"><br/>Tencent Meeting Recording Downloader
-  </h1>
-  <img src="https://img.shields.io/github/license/mahesh-vardhan-kanakala/tencent-meeting-video-downloader"/>
-  <img src="https://img.shields.io/github/v/release/mahesh-vardhan-kanakala/tencent-meeting-video-downloader"/>
-  <img src="https://img.shields.io/chrome-web-store/rating/tencent-meeting-video-downloader"/>
-  <img src="https://img.shields.io/github/stars/mahesh-vardhan-kanakala/tencent-meeting-video-downloader"/>
-</div>
-<br/>
-
 A Chrome browser extension that helps you easily download Tencent Meeting recording videos with just a few clicks. No more complicated steps - just install, detect, and download!
 
 ![Screenshot 2024-12-02 104051](https://github.com/user-attachments/assets/ccc3775f-b395-4bdd-a474-7d286086d012)
